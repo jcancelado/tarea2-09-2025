@@ -11,3 +11,5 @@ def main():
     print("Tu nombre es")
     print("Tu carrera es")
     print("Tu idea de proyecto es")
+def pedirtodo():
+    pedirtodo = input(f"Ingresa tu nombre")
