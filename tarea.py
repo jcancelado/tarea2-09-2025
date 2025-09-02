@@ -13,3 +13,7 @@ def main():
     print("Tu idea de proyecto es")
 def pedirtodo():
     pedirtodo = input(f"Ingresa tu nombre")
+class estudiante : 
+        "nombre":"x",
+        "carrera" : 
+    
