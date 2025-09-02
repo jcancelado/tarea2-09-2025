@@ -15,5 +15,6 @@ def pedirtodo():
     pedirtodo = input(f"Ingresa tu nombre")
 class estudiante : 
         "nombre":"x",
-        "carrera" : 
+        "carrera" :
+print("nose esto es para ver algo del repositorio")
     
